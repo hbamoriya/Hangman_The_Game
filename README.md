@@ -1,5 +1,5 @@
 
-<h1 align="center"><B>HangMan_The_Game</B></h1>
+<h1 align="center"><I>HangMan_The_Game</I></h1>
 <h3 align="center">This Game is Made for Fun </h3>
 <hr>
 <h4>How to play</h4>
