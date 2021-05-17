@@ -5,9 +5,12 @@
 <h4>How to play</h4>
 <p style="font-family:Cursive">
 
-***this is a simple hangman game which we all must have played while we were mere kids.
+this is a simple hangman game which we all must have played while we were mere kids.
 
-***a random word is being  choosen from the dictionary and you have to guess the word within the given lives(no. of chanses you have provided)
+a random word is being  choosen from the dictionary and you have to guess the word within the given lives(no. of chanses you have provided)
 
-***!!THIS IS A GOOD BRAIN TEASER!!!
+!!!THIS IS A GOOD BRAIN TEASER!!!
 </p>
+<hr>
+<h4>Content</h4>
+  -[Source Code](Source-Code/)
