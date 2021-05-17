@@ -4,9 +4,10 @@
 <hr>
 <h4>How to play</h4>
 <p style="font-family:Cursive">
-this is a simple hangman game which we all must have played while we were mere kids.
 
-a random word is bering choosen from the dictionary and you have to guess the word within the given lives(no. of chanses you have provided)
+***this is a simple hangman game which we all must have played while we were mere kids.
 
-!!!THIS IS A GOOD BRAIN TEASER!!!
+***a random word is being  choosen from the dictionary and you have to guess the word within the given lives(no. of chanses you have provided)
+
+***!!THIS IS A GOOD BRAIN TEASER!!!
 </p>
