@@ -13,4 +13,4 @@ a random word is being  choosen from the dictionary and you have to guess the wo
 </p>
 <hr>
 <h4>Content</h4>
-  -[Source Code](Source\Code/)
+  -[Source Code](https://github.com/hbamoriya/Hangman_The_Game/tree/main/Source%20Code)
