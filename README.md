@@ -3,7 +3,7 @@
 <h3 align="center">This Game is Made for Fun </h3>
 <hr>
 <h4>How to play</h4>
-<p style="font-family:Cursive">
+<p>
 
 this is a simple hangman game which we all must have played while we were mere kids.
 
@@ -13,4 +13,5 @@ a random word is being  choosen from the dictionary and you have to guess the wo
 </p>
 <hr>
 <h4>Content</h4>
-  -[Source Code](https://github.com/hbamoriya/Hangman_The_Game/tree/main/Source%20Code)
+
+  - [Source Code](https://github.com/hbamoriya/Hangman_The_Game/tree/main/Source%20Code)
