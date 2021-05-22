@@ -9,12 +9,12 @@ while True:
     chosen_word = random.choice(word_list)
     word_length = len(chosen_word)
 
-    display = []
+    display = []     #displaying the empty underscores of the word 
     for _ in range(word_length):
         display += "_"
 
     while not end_of_game:
-        guess = input("Guess a letter: ").lower()
+        guess = input("Guess a letter: ").lower()      
 
         if guess in display:
             print(f"You've already guessed {guess}")
@@ -38,7 +38,7 @@ while True:
             print("You win.")
 
         print(stages[lives])
-    play_again = input("want to play again? Y/N ")
+    play_again = input("want to play again? Y/N ")   
     if play_again=='Y':
         continue
     else:
